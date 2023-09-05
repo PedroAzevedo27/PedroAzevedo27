@@ -3,9 +3,9 @@
 # Olá! Me chamo Pedro Ribeiro Azevedo! 👋
 
 
-- 👨‍💻 Atualmente trabalho como estagiário na Superintendência Regional da Polícia Federal no Distrito Federal
+- 👨‍💻 Atualmente estou estagiando como suporte técnico na Superintendência Regional da Polícia Federal no Distrito Federal
 - 📚 Curso Análise e desenvolvimento de sistemas - Uniceub Asa Norte
-- 💡 Sou apaixonado em tecnologia e bugigangas eletrônicas. Procuro desafios sempre! 
+- 💡 Procuro me ingressar na área e adquirir novas experiências no ramo da tecnologia. 
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
