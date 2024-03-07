@@ -3,7 +3,7 @@
 # Olá! Me chamo Pedro Ribeiro Azevedo! 👋
 
 
-- 👨‍💻 Atualmente estou estagiando como suporte técnico na Superintendência Regional da Polícia Federal no Distrito Federal
+- 👨‍💻 Atualmente estou estagiando como Jovem Aprendiz no Bnaco de Brasília(BRB)
 - 📚 Curso Análise e desenvolvimento de sistemas - Uniceub Asa Norte
 - 💡 Procuro me ingressar na área e adquirir novas experiências no ramo da tecnologia. 
 -->
