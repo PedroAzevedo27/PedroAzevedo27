@@ -3,7 +3,7 @@
 # Olá! Me chamo Pedro Ribeiro Azevedo! 👋
 
 
-- 👨‍💻 Atualmente estou estagiandono Banco de Brasília(BRB)
+- 👨‍💻 Atualmente estou estagiando no Banco de Brasília(BRB)
 - 📚 Curso Análise e desenvolvimento de sistemas - Uniceub Asa Norte
 - 💡 Procuro me ingressar na área e adquirir novas experiências no ramo da tecnologia. 
 -->
