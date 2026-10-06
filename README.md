@@ -13,6 +13,6 @@ Estagiário no **Banco de Brasília (BRB)** · Estudante de **Análise e Desenvo
 | Projeto | Descrição |
 |---|---|
 | [Zara Sushi](https://github.com/PedroAzevedo27/ProjetoZarasushi) | Site para restaurante |
-| Sistema de agendamento | Agendamento online para barbearia |
+| [CS Navalha](https://www.csnavalha.com.br) | Sistema de agendamento para barbearia |
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=PedroAzevedo27&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAzevedo27&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/>
