@@ -1,49 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+# Pedro Ribeiro Azevedo 👋
 
-# Olá! Me chamo Pedro Ribeiro Azevedo! 👋
+Formado **Análise e Desenvolvimento de Sistemas** (UniCEUB)
 
+🌐 [pedro-azevedo.pages.dev](https://pedro-azevedo.pages.dev) · ✉️ [pedroribeiroazevedo6@gmail.com](mailto:pedroribeiroazevedo6@gmail.com) · 📷 [Instagram](https://www.instagram.com/pedro_azvd_/)
 
-- 👨‍💻 Atualmente estou estagiando no Banco de Brasília(BRB)
-- 📚 Curso Análise e desenvolvimento de sistemas - Uniceub Asa Norte
-- 💡 Procuro me ingressar na área e adquirir novas experiências no ramo da tecnologia. 
--->
+### Stack
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img alt="Kotlin" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> <img alt="Android" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"> <img alt="Android Studio" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroAzevedo27&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Projetos
 
+| Projeto | Descrição |
+|---|---|
+| [ProjetoZarasushi](https://github.com/PedroAzevedo27/ProjetoZarasushi) | Projeto web para restaurante |
+| [CriptografiaDES](https://github.com/PedroAzevedo27/CriptografiaDES) | Implementação do algoritmo DES |
+| [SHA-256](https://github.com/PedroAzevedo27/Programa-de-C-lculo-do-Resumo-Unidirecional-SHA-256) | Cálculo de resumo SHA-256 |
+| [JogodaVelha](https://github.com/PedroAzevedo27/JogodaVelha) | Jogo da velha |
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroAzevedo27&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-<div align="center">
-  <a href="https://github.com/Matheus-Inacioal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAzevedo27&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAzevedo27&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PedroAzevedo27}/count.svg" /></p> 
-<br>
-</div>
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Math-Ad" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" alt="Math-Ads" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Math-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  
-  
-</div>
-
-##
-
-<div> 
-  <a href="https://www.instagram.com/pedro_azvd_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedroribeiroazevedo6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=PedroAzevedo27&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAzevedo27&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/>
