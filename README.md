@@ -1,6 +1,7 @@
 # Pedro Ribeiro Azevedo 👋
 
 Formado **Análise e Desenvolvimento de Sistemas** (UniCEUB)
+Desenvolvedor de projetos e sites **Sob medida**
 
 🌐 [pedro-azevedo.pages.dev](https://pedro-azevedo.pages.dev) · ✉️ [pedroribeiroazevedo6@gmail.com](mailto:pedroribeiroazevedo6@gmail.com) · 📷 [Instagram](https://www.instagram.com/pedro_azvd_/)
 
